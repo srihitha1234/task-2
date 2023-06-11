@@ -1,1 +1,2 @@
 # task-2
+ I have learnt how to self study, I learnt how to familiarize myself with the basics of linux operating system and command line interface, I practice various basic commands on linux like creating a file, editing and removing and executing it in linux. I also learnt how to do the same things as in linux terminal and in other programming language together with bash scripting, I also learnt markdown syntax and I learnt how to apply this knowledge by solving these questions.
